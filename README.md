@@ -1,5 +1,7 @@
 # tp-2019-1c-creativOS
 
+[Spanish Readme](https://github.com/julian-0/Lissandra/blob/master/README_ES.md)
+
 ## Context
 The project was part of the Operating Systems subject and its objective was to develop a solution that allows the simulation of certain aspects of a distributed database, that is, where the different system resources can carry out a workload running from different points.
 Its parts were filesystem, memories and kernel
